@@ -1,4 +1,4 @@
-# todooo
+# Shopify Internship Challenge
 A  CRUD application (REST API) built to manage the inventory of a Logistic Company with Python [fastapi] and SQLite Database. 
 
 
