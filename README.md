@@ -2,9 +2,9 @@
 A  CRUD application (REST API) built to manage the inventory of a Logistic Company with Python [fastapi] and SQLite Database. 
 
 The following are the attributes in the web application for items in aninventory:
-1.Item Name
-2.Item Quantity
-3.Item Warehouse Location
+#### 1.Item Name
+#### 2.Item Quantity
+#### 3.Item Warehouse Location
 
 ## Environment Installation Requirements 
 
