@@ -1,5 +1,6 @@
 # todooo
-A minimal CRUD application (REST API) built with Python [fastapi](https://fastapi.tiangolo.com/) and deployed with [Deta](https://www.deta.sh/).  
+A  CRUD application (REST API) built to manage the inventory of a Logistic Company with Python [fastapi] and SQLite Database. 
+
 
 ## Environment Installation Requirements 
 
@@ -9,3 +10,18 @@ A minimal CRUD application (REST API) built with Python [fastapi](https://fastap
 ```
 git clone https://github.com/karthikhosur/Shopify_Internship.git
 ```
+
+3.Open the project and run the following command to install all dependencies
+
+```
+pip3 install requirements.txt
+```
+
+4.Run the following command to run the api
+
+```
+uvicorn app:app 
+```
+
+You can access the http://127.0.0.1:8013/docs to try out the CRUD API end points 
+
