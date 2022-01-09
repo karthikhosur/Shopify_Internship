@@ -1,5 +1,5 @@
 # Shopify Internship Challenge
-A  CRUD application (REST API) built to manage the inventory of a Logistic Company with Python [fastapi] and SQLite Database. 
+A  CRUD application (REST API) built to manage the inventory of a Logistic Company with Python [fastapi] and SQLite Database. You can test the already deployed API at https://6uullh.deta.dev/docs
 
 The following are the attributes in the web application for items in aninventory:
 #### 1.Item Name
